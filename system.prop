@@ -1,2 +1,7 @@
 # Display
 persist.sys.brightness.low.gamma=true
+
+# Spark
+ro.spark.maintainer=Amrutesh
+ro.spark.device.name=Realme GT Neo 3T
+ro.spark.maintainer.username=Kamisato_Amrut
