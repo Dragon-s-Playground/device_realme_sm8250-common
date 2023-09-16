@@ -19,13 +19,6 @@ debug.sf.latch_unsignaled=1
 # CNE
 persist.vendor.cne.feature=1
 
-# Camera
-ro.oplus.system.camera.name=com.oplus.camera
-ro.oplus.system.camera.flashlight=com.oplus.motor.flashlight
-ro.oplus.camera.video_beauty.prefix=oplus.video.beauty.
-ro.oplus.camera.video.beauty.switch=oplus.switch.video.beauty
-ro.oplus.camera.speechassist=true
-
 # Charging
 ro.charger.enable_suspend=1
 
